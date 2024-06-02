@@ -1,0 +1,15 @@
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
+}
+
+.footer-block {
+  display: felx;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-icons__img {
+  width: 20px;
+}
